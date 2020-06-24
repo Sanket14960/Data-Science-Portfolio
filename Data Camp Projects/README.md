@@ -9,4 +9,5 @@ Order in which they were done:
 
 
 Not completed
+
 5. Dr. Semmelweis and the Discovery of Handwashing
