@@ -23,3 +23,10 @@ Order in which they were done:
 5. Dr. Semmelweis and the Discovery of Handwashing
     - Analyzing time based changes 
     - Perform bootstrap analysis to confirm hypothesis
+
+6. Predicting Credit Card Approvals
+    - Handling the missing values
+    - Preprocessing the data
+    - Fitting a logistic regression model to the train set
+    - Making predictions and evaluating performance
+    - Finding the best performing model
